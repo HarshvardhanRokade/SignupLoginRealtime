@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795217892740",
+    "project_id": "singup-login-realtime-5d413",
+    "storage_bucket": "singup-login-realtime-5d413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795217892740:android:3722cfbb318b3419f8b9d1",
+        "android_client_info": {
+          "package_name": "com.example.singuploginrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDZSzLOqPWxyTHdBEScaN4yqa7XMLaJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
